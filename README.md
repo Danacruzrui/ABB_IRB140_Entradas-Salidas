@@ -4,7 +4,7 @@ Desarrollado por Daniel Cruz y Cristhian Pulido
 ## Descripción de la solución planteada
 ## Explicación del código 
 
-```RAPID
+```mod
  PROC main()
         Path_inicial;
     	WaitTime 1;
