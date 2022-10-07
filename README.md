@@ -2,6 +2,7 @@
 Desarrollado por Daniel Cruz y Cristhian Pulido
 
 ## Descripción de la solución planteada
+https://github.com/Danacruzrui/Lab3_ABB_IRB140_Entradas-Salidas/issues/1#issue-1400565321
 
 ### Entradas
 Se utilizan dos entradas analogas dispuestan en el controlador del Robot  
