@@ -11,6 +11,7 @@ Se utilizan dos entradas analogas dispuestan en el controlador del Robot
 
 ### Salidas 
 
+hnh
 
 <p align="center"><img height=300 src="./Multimedia/salidas.png" alt="Menu" /></p>
 
