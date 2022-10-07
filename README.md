@@ -8,6 +8,7 @@ https://user-images.githubusercontent.com/53317895/194460750-c61aa55e-3e25-4ca4-
 ### Entradas
 Se utilizan dos entradas analogas dispuestan en el controlador del Robot  
 <p align="center"><img height=300 src="./Multimedia/Entradas.png" alt="Menu" /></p>
+
 ### Salidas 
 
 
@@ -15,12 +16,17 @@ Se utilizan dos entradas analogas dispuestan en el controlador del Robot
 
 
 ### Posición de Home 
+
 <p align="center"><img height=300 src="./Multimedia/Home.png" alt="Menu" /></p>
 
 ### Ejecución de rutina 
+
 <p align="center"><img height=300 src="./Multimedia/Rutina.png" alt="Menu" /></p>
+
 ### Posición de Mantenimiento 
+
 <p align="center"><img height=300 src="./Multimedia/Mantenimiento.png" alt="Menu" /></p>
+
 ## Explicación del código 
 
 ```mod
