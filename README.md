@@ -7,7 +7,19 @@ https://user-images.githubusercontent.com/53317895/194460750-c61aa55e-3e25-4ca4-
 
 ### Entradas
 Se utilizan dos entradas analogas dispuestan en el controlador del Robot  
+<p align="center"><img height=300 src="./Multimedia/Entradas.png" alt="Menu" /></p>
 ### Salidas 
+
+
+<p align="center"><img height=300 src="./Multimedia/Salidas.png" alt="Menu" /></p>
+
+
+### Posición de Home 
+<p align="center"><img height=300 src="./Multimedia/Home.png" alt="Menu" /></p>
+
+### Ejecución de rutina 
+
+### Posición de Mantenimiento 
 
 ## Explicación del código 
 
