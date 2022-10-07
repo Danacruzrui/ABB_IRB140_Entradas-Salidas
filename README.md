@@ -11,16 +11,16 @@ Se utilizan dos entradas analogas dispuestan en el controlador del Robot
 ### Salidas 
 
 
-<p align="center"><img height=300 src="./Multimedia/Salidas.png" alt="Menu" /></p>
+<p align="center"><img height=300 src="./Multimedia/salidas.png" alt="Menu" /></p>
 
 
 ### Posición de Home 
 <p align="center"><img height=300 src="./Multimedia/Home.png" alt="Menu" /></p>
 
 ### Ejecución de rutina 
-
+<p align="center"><img height=300 src="./Multimedia/Rutina.png" alt="Menu" /></p>
 ### Posición de Mantenimiento 
-
+<p align="center"><img height=300 src="./Multimedia/Mantenimiento.png" alt="Menu" /></p>
 ## Explicación del código 
 
 ```mod
