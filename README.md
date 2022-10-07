@@ -2,6 +2,11 @@
 Desarrollado por Daniel Cruz y Cristhian Pulido
 
 ## Descripción de la solución planteada
+
+### Entradas
+Se utilizan dos entradas analogas dispuestan en el controlador del Robot  
+### Salidas 
+
 ## Explicación del código 
 
 ```mod
