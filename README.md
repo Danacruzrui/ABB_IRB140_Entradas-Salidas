@@ -1,6 +1,7 @@
 # Laboratorio 3 - Robótica Industrial 2, Entradas y Salidas
 Desarrollado por Daniel Cruz y Cristhian Pulido
 
+En este repositorio se encuentra el desarrollo del laboratorio 3 de robotica orientado al manejo de entradas y salidas para el robot ABB IBR 140. 
 ## Descripción de la solución planteada
 
 https://user-images.githubusercontent.com/53317895/194460750-c61aa55e-3e25-4ca4-9f7e-ecc17207033b.mp4
